@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Tol Ma Enta Bkhir |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 04, 2026 |
+| Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/tol-ma-enta-bkhir/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,7 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> [Excerpt will appear here after the final lyric is saved.]
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
