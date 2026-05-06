@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 04, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/tol-ma-enta-bkhir/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [License Abu Sayed's Tol Ma Enta Bkhir](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Get Permission to Use Tol Ma Enta Bkhir](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
