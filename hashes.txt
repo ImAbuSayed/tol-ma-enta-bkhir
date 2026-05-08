@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tol Ma Enta Bkhir
+
+This log tracks the cryptographic history and versioning for the song **Tol Ma Enta Bkhir** (tol-ma-enta-bkhir).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T19:42:50.143212 | `v1` | `2a4bce08489172cae355aff81878c33c90779c7e37d175467d8d88d2b79d9fb9` | `2a4bce08489172cae355aff81878c33c90779c7e37d175467d8d88d2b79d9fb9` | `2026-05-08_tol-ma-enta-bkhir-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
